@@ -1,0 +1,6 @@
+{
+  "name": "LifeVault",
+  "description": "Personal Document Expiry & Smart Alert Companion. Track passport, licenses, medical policies, and financial maturities with client-side offline persistence and smart alerts.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
